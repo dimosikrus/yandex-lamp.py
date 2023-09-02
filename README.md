@@ -34,3 +34,10 @@ uvicorn main:app --reload
 # or with custom port
 uvicorn main:app --reload --port 2566
 ```
+
+# Using Nginx
+using example config
+```
+ln -r -s nginx.conf /etc/nginx/sites-enabled/yandexlamp.conf
+sudo nginx -s reload
+```
