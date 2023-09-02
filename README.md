@@ -1,5 +1,5 @@
 # yandex-lamp.py
-Python api app for control Smart Lamp from yandex IOT api
+Python fastapi app for control Smart Lamp from yandex IOT api
 
 Clone this repository
 ```
@@ -9,7 +9,7 @@ cd yandex-lamp.git
 
 Install requirements.
 ```
-python3 -m pip install fastapi
+python3 -m pip install fastapi requests
 ```
 
 Copy Config and edit.
