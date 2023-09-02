@@ -1,0 +1,3 @@
+DOMAIN = "www.example.com"
+TOKEN = "Yandex IOT (HOME) TOKEN"
+DEVICE_ID = "SMART LAMP DEVICE ID"
